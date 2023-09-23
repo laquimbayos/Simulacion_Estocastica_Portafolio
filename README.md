@@ -1,5 +1,5 @@
 # Simulacion_Estocastica_Portafolio
-Proyecto ejemplo de una Optimización de Portafolio con Simulación Estocástica en Python: Utiliza Monte Carlo para maximizar ganancias y minimizar riesgos en inversiones.
+Proyecto de una Optimización de Portafolio con Simulación Estocástica en Python: Utiliza Monte Carlo para maximizar ganancias y minimizar riesgos en inversiones.
 # Optimización de Portafolio con Simulación Estocástica en Python
 
 Este repositorio contiene un proyecto de optimización de portafolio de inversión utilizando simulación estocástica de Monte Carlo en Python. El objetivo es aplicar la teoría de Media Varianza de Markowitz para tomar decisiones de inversión bajo incertidumbre y maximizar el rendimiento esperado del portafolio mientras se minimiza el riesgo.
